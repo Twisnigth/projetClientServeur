@@ -1,0 +1,14 @@
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/bin/Debug/net9.0/projetServeurClient
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/bin/Debug/net9.0/projetServeurClient.deps.json
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/bin/Debug/net9.0/projetServeurClient.runtimeconfig.json
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/bin/Debug/net9.0/projetServeurClient.dll
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/bin/Debug/net9.0/projetServeurClient.pdb
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.AssemblyInfoInputs.cache
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.AssemblyInfo.cs
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.csproj.CoreCompileInputs.cache
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.dll
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/refint/projetServeurClient.dll
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.pdb
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/projetServeurClient.genruntimeconfig.cache
+/Users/enzocorthier/RiderProjects/projetServeurClient/projetServeurClient/obj/Debug/net9.0/ref/projetServeurClient.dll
